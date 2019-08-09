@@ -1,0 +1,13 @@
+Home Work: 2
+
+Exercise-I:
+1. Create a class "Calc1" and add couple of methods such as  addition and subtraction
+2. Create another class "Calc2" and couple of methods such as multiplication and division
+3. Extend Calc1 into Calc2 
+4. Create a main method in Calc2, and create an object for Calc2 and access the methods of Calc2 and Calc1 as we extended Calc1 into Calc2 
+
+Exercise - II:
+1. write programs to demonstrate Access control modifiers
+
+Exercise - III: 
+1. Please write a program to demonstrate Default and parameterised Methods and string concatenation

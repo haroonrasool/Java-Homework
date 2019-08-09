@@ -1,0 +1,41 @@
+Home Work: 3
+
+Exercise - I:
+1. Write a program to find the greatest number among 2 values
+2. Write a program to compare 3 numbers and print the greatest value
+3. Write a program to compare 3 numbers and print min value
+
+Exercise - II:
+1. Write a program to print the result when you provide the total marks 
+Pass -  if marks are more than 36% 
+fail -  if marks are less than 36%
+Exercise - III:
+1. Write a program to print the grade when you provide the total marks 
+Grade A - if marks are between 90% to 100%  
+Grade B  -   if marks are between 70% to 89%
+Grade C -   if marks are between 37% to 69%
+Just Pass -  if marks are 36% 
+fail -  if marks are less than 36%
+
+Exercise - IV:
+1. Please write a program to demonstrate static keyword
+create static variable and static methods and try to access using method name directly and through class name in another class
+
+Exercise - V:
+1. Demonstrate Final keyword usage for variables and methods
+
+Exercise-VI:
+1. Create a class with few methods with return value and call those methods and print the return values
+
+Exercise-VII:
+1. Create a class with default and parameterised constructor methods
+to demonstrate constructor methods
+
+Exercise-VIII:
+1.Create a class Calculator with some calculation methods with same name to demonstrate method overloading
+2. Create a class Shape with some shapes methods with same name to demonstrate method overloading
+
+Exercise - IX:
+3.Create a class Bank with some banking methods(openAccount, depositeMoney, transferMoney etc...), 
+Create another class MyBank and Extend the class Bank
+and create the same methods as parent class Bank methods to implement method overriding

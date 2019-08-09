@@ -1,0 +1,49 @@
+Exercise - I:
+1. Please write a program to find the factorial of given number
+
+2. Please write a program to find the sum of 1 to 50 numbers
+Example: 1+2+3+.................+50
+
+3. Please write a program to print even numbers between 1 to 100
+
+4. Please write a program to print odd numbers between 1 to 100
+
+5. Please write a program to print prime numbers between 1 to 100
+
+6. Please write a program to print numbers divided by 5 between 1 to 100 
+
+Exercise - II: 
+1. Create an array of 10 String values and print using for-each loop
+
+2. Create an array of 10 integer values and print using while loop with iterator
+
+3. Create an array of 6 values and store in this order: 23, 6, 47, 35, 2, 14. 
+	Write a programme to get the sum and average of all 6 numbers
+
+4. Using the above values, write a program and print out the highest number in the array.
+
+5. Create an array of 10 values and write a program to print out only the odd numbers in the array
+
+6. Create an array of 10 values and write a program to find the sum of all the elements in the array
+
+Loops:https://www.tutorialspoint.com/java/java_loop_control.htm
+While:https://www.javatpoint.com/java-while-loop
+Do-While:https://www.javatpoint.com/java-do-while-loop
+For: https://www.javatpoint.com/java-for-loop
+
+Arrays: https://www.javatpoint.com/array-in-java
+            https://introcs.cs.princeton.edu/java/14array/
+Array Lists:
+http://www.javatpoint.com/ArrayList-in-collection-framework
+http://www.tutorialspoint.com/java/java_list_interface.htm
+
+Cursors in Java: 
+http://www.tutorialspoint.com/java/java_list_interface.htm
+
+ForEach Loop: https://www.javatpoint.com/for-each-loop
+
+Sample programs:
+http://www.java2novice.com/java-collections-and-util/arraylist/
+
+IMPORTANT: Please try to practice quiz questions and exercises mentioned on the below site (Please try to do exercises/quiz for the concepts which covered in the class)
+http://chortle.ccsu.edu/java5/
