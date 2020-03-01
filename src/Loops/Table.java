@@ -8,6 +8,8 @@ class Test {
 			System.out.println(num + " * " + i + " = " + num * i);
 		}
 	}
+
+
 }
 
 public class Table {
