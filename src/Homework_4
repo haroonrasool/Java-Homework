@@ -1,0 +1,33 @@
+Home Work 4:
+Exercise - I:
+1. Please write sample programs to demonstrate the below OOP concepts:
+a. Polymorphism (method overloading and method overriding)
+b. Abstraction (interface and Abstract Class)
+(Please check the practiced programs in the attached project)
+
+Exercise - II:
+1. Create a Bank interface and declare banking operation methods and variables
+2. Create classes BarclaysBank , LloydsBank or TescoBank.....
+and implement the Bank interface methods in all the above classes
+implement the method differently in different classes
+3. Create TestBank class and access the methods of above classes
+
+Exercise - III:
+1. Demonstrate using switch statements with number, character and string expression
+
+Exercise - IV: 
+1. Write a program to get the character at the given index within the String
+2. Write a program to concatenate a given string to the end of another string
+3. Write a program to test if a given string contains the specified string
+4. Write a program to check whether a given string ends with the contents of another string.
+5. Write a program to compare a given string to another string, ignoring case considerations.
+6. Write a program to get the length of a given string.
+7. Write a program to replace all the 'd' characters with 'f' characters
+8. Write a program to get a substring of a given string between two specified positions.
+9. Write a program to convert all the characters in a string to lowercase
+
+Exercise - V:
+1. Create a class with a method which can generate random number and random email address, and random username
+
+Exercise - VI:
+1.Create a class with calculation methods using Math class methods.

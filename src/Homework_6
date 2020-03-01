@@ -1,0 +1,10 @@
+Exercise - I: 
+1. Create a partially encapsulated class with private variables and public methods and
+ try to give read only and write only permissions using getters, setters methods
+
+Exercise - II: 
+Write a program to demonstrate exception handling concepts:
+i. Write a program with ArithmeticException and ArrayIndexBoundsExceptions and handle using try and catch block
+ii. Handle with multiple catch blocks
+iii. Handle with catch block and finally block
+iv. Throw an exception using throw keyword and throws keyword

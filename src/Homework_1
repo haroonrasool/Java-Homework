@@ -1,0 +1,17 @@
+HOME WORK: 1
+
+1. Create a Java project, create the package and create a class with main method and print a message
+
+2. Create a class and declare some variables of different data types such as byte, int, char, String etc....
+
+And print the values of the declared variables
+
+3. Play around with different data types by giving invalid data, verify the syntax errors and correct them
+
+4. Try to execute with main method and see what happens when you don't have main method
+
+5. Try to use the comments for the variables you declared, main method and for the class
+
+6. Create a class and create calculator methods such as addition, subtraction...etc
+
+Make the methods static and call them in main method
